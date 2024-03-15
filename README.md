@@ -1,6 +1,6 @@
 Groww SDE Intern Frontend Assignment :-
 
-Developing a user-friendly, visually engaging, and responsive checkout experience for Groww's Frontend Developer - Intern assignment.
+Developed a user-friendly, visually engaging, and responsive checkout experience for Groww's Frontend Developer - Intern assignment.
 
 Utilizes provided APIs for cart details and payment methods.
 
