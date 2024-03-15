@@ -1,17 +1,16 @@
-export interface OrderDetail {
-    id: number;
-    name: string;
-    price: number;
-}
-     
-export interface PaymentOption {
-    id: number;
-    name: string;
-}
-  
 export interface OrderDetailsResponse {
-    products: OrderDetail[];
-    total: number;
-    paymentMethods: PaymentOption[];
+    products: Product[];
+    paymentMethods: string[];
+}   
+
+export interface PaymentOption{
+    paymentoptions: string[]
 }
-  
+
+export interface Product {
+    id: number;
+    title: string;
+    image: string;
+    price: number;
+    quantity: number;
+}  

@@ -3,7 +3,7 @@ const Footer = () => {
         <footer className="bg-white border-t">
             <div className="mx-auto py-10">
                 <p className="text-center text-xs text-black">
-                    &copy; 2024 Instapay, Inc. All rights reserved. 
+                    &copy; 2024 InstaPayments, Inc. All rights reserved.  
                 </p>
             </div>
         </footer>
